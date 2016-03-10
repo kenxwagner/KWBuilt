@@ -26,5 +26,12 @@ namespace MVCBootstrap.Controllers
 
             return View();
         }
+        
+        public ActionResult Csharp()
+        {
+            ViewBag.Message = "Your C Sharp.";
+
+            return View();
+        }
     }
 }

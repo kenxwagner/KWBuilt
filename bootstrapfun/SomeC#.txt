@@ -1,6 +1,3 @@
-﻿@{
-    ViewBag=_Page_Views_Csharp_Cpp_cshtml;
-}
 
 @{
     var txt = "";
@@ -95,4 +92,3 @@
         </p>
     </div>
 </div>
-

@@ -11,7 +11,7 @@
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  text-align: center;
+  text-align: left;
   background-color: transparent;
 }
 .jumbotron .btn {

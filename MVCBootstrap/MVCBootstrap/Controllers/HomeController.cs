@@ -13,7 +13,7 @@ namespace MVCBootstrap.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Portfolio()
         {
             ViewBag.Message = "Your application description page.";
 

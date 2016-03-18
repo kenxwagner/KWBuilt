@@ -179,6 +179,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="images\kwbuilticon.png" />
+    <Content Include="images\kwbuilticon1.jpg" />
     <Content Include="images\kwbuilticonCorner.jpg" />
     <Content Include="images\kwbuilticonCorner.png" />
     <Content Include="Scripts\bootstrap.js" />

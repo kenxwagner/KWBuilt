@@ -13,25 +13,26 @@ namespace MVCBootstrap.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Portfolio()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "What have I done?";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "You know why you are here.";
 
+            return View();
+        }
+
+        public ActionResult Resume()
+        {
+            ViewBag.Message = "The Resume.";
+         
             return View();
         }
         
-        public ActionResult Csharp()
-        {
-            ViewBag.Message = "Your C Sharp.";
-
-            return View();
-        }
     }
 }

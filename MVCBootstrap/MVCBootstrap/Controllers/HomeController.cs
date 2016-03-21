@@ -15,14 +15,14 @@ namespace MVCBootstrap.Controllers
 
         public ActionResult Portfolio()
         {
-            ViewBag.Message = "What have I done?";
+            ViewBag.Message = "Enjoy!";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "You know why you are here.";
+            ViewBag.Message = "Nice to meet you.";
 
             return View();
         }

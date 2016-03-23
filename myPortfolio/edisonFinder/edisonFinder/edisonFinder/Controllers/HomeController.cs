@@ -15,7 +15,7 @@ namespace edisonFinder.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Find the innovative talent or demonstrate your own.";
 
             return View();
         }

@@ -15,7 +15,7 @@ namespace MVCBootstrap.Controllers
 
         public ActionResult Portfolio()
         {
-            ViewBag.Message = "Enjoy!";
+            //ViewBag.Message = "Enjoy!";
 
             return View();
         }

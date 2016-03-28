@@ -217,14 +217,14 @@ C:\Users\ken.wagner\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.Owin.
 C:\Users\ken.wagner\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\obj\Debug\KWBuilt.csprojResolveAssemblyReference.cache
 C:\Users\ken.wagner\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\obj\Debug\MVCBootstrap.dll
 C:\Users\ken.wagner\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\obj\Debug\MVCBootstrap.pdb
+C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\MVCBootstrap.dll.config
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\MVCBootstrap.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\MVCBootstrap.pdb
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Antlr3.Runtime.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\EntityFramework.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\EntityFramework.SqlServer.dll
-C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.Owin.dll
 C:\Users\Ken\Documents\GitHub\KWBuilt\KWBuilt\KWBuilt\bin\Microsoft.Owin.Host.SystemWeb.dll

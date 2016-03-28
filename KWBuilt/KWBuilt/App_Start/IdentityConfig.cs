@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using MVCBootstrap.Models;
+using KWBuilt.Models;
 
-namespace MVCBootstrap
+namespace KWBuilt
 {
     public class EmailService : IIdentityMessageService
     {

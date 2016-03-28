@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using MVCBootstrap.Models;
+using KWBuilt.Models;
 
-namespace MVCBootstrap.Controllers
+namespace KWBuilt.Controllers
 {
     [Authorize]
     public class AccountController : Controller

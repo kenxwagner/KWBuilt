@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace MVCBootstrap
+namespace KWBuilt
 {
     public class BundleConfig
     {

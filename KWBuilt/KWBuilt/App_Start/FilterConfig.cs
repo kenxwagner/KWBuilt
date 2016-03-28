@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace MVCBootstrap
+namespace KWBuilt
 {
     public class FilterConfig
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(MVCBootstrap.Startup))]
-namespace MVCBootstrap
+[assembly: OwinStartupAttribute(typeof(KWBuilt.Startup))]
+namespace KWBuilt
 {
     public partial class Startup
     {

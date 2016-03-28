@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using MVCBootstrap.Models;
+using KWBuilt.Models;
 
-namespace MVCBootstrap
+namespace KWBuilt
 {
     public partial class Startup
     {
